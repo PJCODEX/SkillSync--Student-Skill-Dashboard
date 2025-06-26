@@ -1,0 +1,65 @@
+/* General Reset & Font */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+}
+
+/* Header */
+header h1 {
+  color: #00d1ff;
+  text-shadow: 0 0 6px rgba(0, 209, 255, 0.3);
+}
+
+header p {
+  font-size: 1.1rem;
+}
+
+/* Form Styling */
+form input::placeholder {
+  color: #ccc;
+  opacity: 0.7;
+}
+
+form input:focus,
+form textarea:focus {
+  border-color: #00d1ff !important;
+  box-shadow: 0 0 5px rgba(0, 209, 255, 0.4);
+}
+
+/* Button Hover Effect */
+.btn-outline-info:hover {
+  background-color: #00d1ff;
+  color: #000;
+  border-color: #00d1ff;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Cards */
+.student-card {
+  border: 1px solid #444;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.student-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 0 15px rgba(0, 209, 255, 0.2);
+}
+
+/* Links */
+a.text-info {
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+a.text-info:hover {
+  color: #66e0ff;
+}
+
+/* Responsive Spacing */
+@media (max-width: 768px) {
+  .student-card {
+    margin-bottom: 20px;
+  }
+}
