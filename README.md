@@ -74,7 +74,7 @@ SkillSync/
 ## 📬 Contact
 
 Feel free to connect:
-- **Your Name**: [https://www.linkedin.com/in/puja-kumari01b]
+- [https://www.linkedin.com/in/puja-kumari01b]
 - Feedback and suggestions are welcome!
 
 ---
