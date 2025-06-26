@@ -5,7 +5,7 @@ SkillSync is a dark-mode, fully responsive front-end web application where stude
 ---
 
 ## 🚀 Live Demo
-Hosted on **Netlify**: 
+Hosted on **Vercel**: https://skill-sync-student-skill-dashboard.vercel.app/
 
 ---
 
@@ -34,7 +34,7 @@ Hosted on **Netlify**:
 |------------|----------------------------------|
 | Front-End  | HTML5, CSS3, Bootstrap 5         |
 | Aesthetic  | Dark mode UI, custom animations |
-| Hosting    | Netlify         |
+| Hosting    | Vercel         |
 
 > ⚠️ This is a **front-end only project**. No backend integration is included as this task focuses solely on UI/UX.
 
