@@ -79,5 +79,6 @@ Feel free to connect:
 
 ---
 
-## 📝 License
-This project is licensed under MIT for educational and demonstration purposes only.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
