@@ -80,4 +80,4 @@ Feel free to connect:
 ---
 
 ## 📝 License
-This project is for educational and demonstration purposes only.
+This project is licensed under MIT for educational and demonstration purposes only.
